@@ -26,8 +26,6 @@ for i in range(1,6):
 print("---------------------------- Software Development ----------------------------------")
 print("This is Arcade Mix Game Program presented:")
 print()
-print("By Kushal, Sudip and Suman")
-print()
 print("To Cesar Sanin")
 print("---------------------------- AIH Higher Education ----------------------------------")
 print()
